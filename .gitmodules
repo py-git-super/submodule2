@@ -1,0 +1,3 @@
+[submodule "py-submoudle"]
+	path = py-submoudle
+	url = git@github.com:py-git-super/py-submoudle.git
